@@ -73,23 +73,23 @@ let strUndefined
 console.log(strUndefined)
 */
 
-//STEP10 
-// let newString = "Hello"
-// console.log(typeof(newString))
+/*
+STEP10 
+let newString = "Hello"
+console.log(typeof(newString))
 
-// let newInt = 5
-// console.log(typeof(newInt))
+let newInt = 5
+console.log(typeof(newInt))
 
-// let newBln = false
-// console.log(typeof(newBln))
+let newBln = false
+console.log(typeof(newBln))
 
-class animal() {
+let newObject = null
+console.log(typeof newObject)
 
-}
-console.log(typeof(animal))
-
-// let newThing
-// console.log(typeof(newThing))
+let newThing
+console.log(typeof(newThing))
+*/
 
 /*
 STEP11
@@ -158,11 +158,11 @@ console.log(x)
 //STEP21
 let x = 5
 if (x < 10) {
-    console.log(true)
+    console.log(false)
 }
 
 //STEP22
 let y = 12
-if (y >= 4) {
-    console.log(false)
+if (y === 12) {
+    console.log(true)
 }
