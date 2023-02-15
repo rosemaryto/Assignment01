@@ -156,13 +156,9 @@ console.log(x)
 */
 
 //STEP21
-let x = 5
-if (x < 10) {
-    console.log(false)
-}
+let x = 6
+console.log(x === 6)
 
 //STEP22
 let y = 12
-if (y === 12) {
-    console.log(true)
-}
+console.log(y >= 20)
